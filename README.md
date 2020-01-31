@@ -1,0 +1,1 @@
+# internship-drawing-image
