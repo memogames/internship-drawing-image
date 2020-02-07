@@ -6,7 +6,7 @@
 
 <br />
 
-2. หลังจากที่เข้าใจหลักการแล้วให้ลองเขียนโปรแกรมในการเข้ารหัสข้อความเป็นรูปภาพ เพื่อยืนยันความเข้าใจของเรา และได้ฝึก Logic ในการเขียนโปรแกรมของเราด้วยนะ (ข้อนี้ใช้ภาษาอะไรเขียนก็ได้นะครับไม่ได้กำหนด แต่ถ้าให้แนะนำให้เลือกใช้ภาษาที่ง่ายๆ เช่น Python เพราะว่ามันวาดรูปได้ง่าย และมีตัวแปล List (Array) ที่ค่อนข้างยืดหยุ่นครับ เราจะได้มีสมาธิกับการแก้โจทย์ครับ)
+2. หลังจากที่เข้าใจหลักการแล้วให้ลองเขียนโปรแกรมในการเข้ารหัสข้อความเป็นรูปภาพ เพื่อยืนยันความเข้าใจของเรา และได้ฝึก Logic ในการเขียนโปรแกรมของเราด้วยนะ
 	
 <br />
 
@@ -20,7 +20,7 @@
 9360F06C9
 ```
 
-![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q1.jpg)
+![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q3.jpg)
 
 
 <br /><br />
@@ -29,7 +29,7 @@
 9333609C60F0F0F073B060009
 ```
 
-![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q2.jpg)
+![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q1.jpg)
 
 
 <br /><br />
@@ -38,7 +38,7 @@
 90003300060900A500600090CC060000090060005CA0FF05CA53A0FF053A000600900000603309000600A500906000CC0009
 ```
 
-![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q3.jpg)
+![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q2.jpg)
 
 
 <br /><br />
@@ -57,3 +57,6 @@ EDECCDECCDBECCCFF335EECCCCD65FAECCCCD1A5AECCCCDEA5BECCCEDFF7EB777B7FFDA5618FFFF7
 ```
 
 ![GitHub Logo](https://github.com/memogames/internship-drawing-image/blob/master/Q5.jpg)
+
+<br /><br />
+
